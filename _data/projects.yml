@@ -11,7 +11,7 @@ project1_tests:
   date: 2022-09-20
   icon: 'project'
   type: ['has-text-usf-plum']
-  canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223907'
+  canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237377'
   points: 100
 
 project1_review1:
@@ -20,7 +20,7 @@ project1_review1:
   link: '/guides/projects/project-1.html'
   date: 2022-09-27
   icon: 'review'
-  canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223905'
+  canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237375'
   points: 30
 
 project1_review2: 
@@ -29,7 +29,7 @@ project1_review2:
   link: '/guides/projects/project-1.html'
   date: 2022-10-04
   icon: 'review'
-  canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223906'
+  canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237376'
   points: 20
 
 project1_design: 
@@ -37,7 +37,7 @@ project1_design:
   text: 'Project 1 Design'
   link: '/guides/projects/project-1.html'
   date: 2022-10-11
-  canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223904'
+  canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237374'
   points: 50
 
 project2:
