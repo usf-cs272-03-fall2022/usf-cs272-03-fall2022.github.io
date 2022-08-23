@@ -24,13 +24,13 @@ defaults:
 weeks:
   - week: 1
     days:
-      - date: 2022-08-23
+      - date: 2022-08-24
         sections:
           - <<: *lectures
             items:
               - text: 'Course Syllabus'
                 icon: 'website'
-                link: 'https://usfca.simplesyllabus.com/doc/bkntdvkfc/Fall-2022-CS-272-01-Software-Development?mode=view'
+                link: 'https://usfca.simplesyllabus.com/en-US/doc/nqsthapn6/Fall-2022-CS-272-03-Software-Development?mode=view'
 
               - file: 'slides'
                 name: 'course_intro'
@@ -63,17 +63,17 @@ weeks:
                 icon: 'date'
                 type: [*pending]
 
-      - date: 2022-08-25
+      - date: 2022-08-26
         sections:
           - <<: *lectures
             items:
               - text: 'Project Euler'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/ProjectEuler'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/ProjectEuler'
 
               - text: 'Exception Handling'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/ExceptionHandling'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/ExceptionHandling'
 
           - <<: *content
             items:
@@ -177,7 +177,7 @@ weeks:
 
   - week: 2
     days:
-      - date: 2022-08-30
+      - date: 2022-08-31
         sections:
           - <<: *lectures
             items:
@@ -222,7 +222,7 @@ weeks:
                 text: 'Project 1 Inverted Index'
                 type: 'bump'
 
-      - date: 2022-09-01
+      - date: 2022-09-02
         sections:
           - <<: *lectures
             items:
