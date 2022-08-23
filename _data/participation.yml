@@ -88,9 +88,6 @@ cs_event:
 
 
 
-
-
-
 midterm_survey:
   <<: *default
   text: 'Midterm Survey'
