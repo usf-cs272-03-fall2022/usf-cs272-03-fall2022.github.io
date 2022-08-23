@@ -34,7 +34,7 @@ When creating an account for this class (including accounts already created), ke
 
   - Apply for the [**GitHub Student Developer Pack**](https://education.github.com/pack) after adding your university emails to your account.
 
-You can see the [instructor's profile page](https://github.com/sjengle) for an example. When done with this class, you'll be able to show off your GitHub profile to potential employers.
+You can see the [instructor's profile page](https://github.com/ryscheng) for an example. When done with this class, you'll be able to show off your GitHub profile to potential employers.
 
 <i class="fas fa-info-circle"></i>
 Using your GitHub username and password authentication [no longer an option for authentication](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/) via the command-line.
