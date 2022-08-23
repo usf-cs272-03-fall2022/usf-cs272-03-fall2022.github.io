@@ -7,19 +7,19 @@ example_assignment: &default
 introduction_post:
   <<: *default
   text: 'Introduction Post'
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223886'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237348'
   date: 2022-08-26
 
 forum_setup:
   <<: *default
   text: 'Forum Setup'
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223871'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237330'
   date: 2022-08-26
 
 introduction_reply:
   <<: *default
   text: 'Introduction Reply'
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223897'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237368'
   date: 2022-09-02
 
 assistants_reply:
@@ -57,32 +57,49 @@ intake_review:
 ask_why:
   <<: *default
   text: 'Ask Why on Piazza'
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223901'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237352'
   date: 2022-10-14
 
 ask_anything:
   <<: *default
   text: 'Ask Anything on Piazza'
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7234626'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237351'
   date: 2022-12-02
 
 piazza_reply:
   <<: *default
   text: 'Reply on Piazza'
   date: 2022-12-02
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223902'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237391'
 
 cs_event:
   <<: *default
   text: 'CS Event'
   date: 2022-12-09
   show: true
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409338'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411876'
+
+
+
+# # github_resource:
+# #   <<: *default
+# #   text: 'Git/GitHub Resource'
+# #   date: 2022-02-11
+
+
+
+# intake_review:
+#   <<: *default
+#   text: 'Code Review Intake'
+#   date: 2022-02-25
+#   link: 'https://usfca.instructure.com/courses/1610487/assignments/7237353'
+
+
 
 midterm_survey:
   <<: *default
   text: 'Midterm Survey'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409379'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411892'
   date: 2022-10-28
 
 whatif:
