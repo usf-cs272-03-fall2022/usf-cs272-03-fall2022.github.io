@@ -8,7 +8,7 @@ example_slides: &default
 course_intro:
   <<: *default
   text: 'Course Introduction'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSO7g1sDqi3XoWkOKFO7_7YR-BrT2iA8tMrWbeHvX5HT8msJqILQCMIHM6QJpTxPS46KysQyfhQatDY/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vRvks5x2RepCYTLFyuM2WQc3QvfsfB9WroNc42NnUbU-VpoHWPnN6ShybabqZdIikuEGnIXDHa6o4_Z/pub?start=false&loop=false&delayms=3000'
 
 exceptions:
   <<: *default
