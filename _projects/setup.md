@@ -27,7 +27,7 @@ When we verify the functionality and review the design of your project, we will 
 
 Below is a quick summary of the **one-time setup** needed for the project:
 
-  1. Visit the [Project Setup](https://usfca.instructure.com/courses/1608197/assignments/7223919) assignment in Canvas and click the GitHub Classroom link. This will setup a private repository named `project-username` where `username` is your GitHub username. You will use this same repository the *entire* semester for all of the projects.
+  1. Visit the [Project Setup](https://usfca.instructure.com/courses/1610487/assignments/7237389) assignment in Canvas and click the GitHub Classroom link. This will setup a private repository named `project-username` where `username` is your GitHub username. You will use this same repository the *entire* semester for all of the projects.
 
   1. Import the repository as a Java Project in Eclipse. See the [Importing Eclipse Projects from GitHub](/guides/eclipse/importing-eclipse-projects-from-github.html) guide for steps. This will create a "SearchEngine" project in Eclipse where you will add your own code for the project.
 
