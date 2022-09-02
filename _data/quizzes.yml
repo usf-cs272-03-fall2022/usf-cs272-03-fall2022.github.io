@@ -14,31 +14,31 @@ paths:
   text: 'Paths and Files'
   date: 2022-09-09
   tags: ['files']
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223878'
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413866'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237313'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411852'
 
 data:
   <<: *default
   text: 'Data Structures'
   date: 2022-09-09
   tags: ['data']
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223869'
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413858'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237334'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411888'
 
 maps:
   <<: *default
   text: 'Using Maps'
   date: 2022-09-09
   tags: ['data']
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223873'
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413863'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237347'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411908'
 
 project1:
   <<: *default
   text: 'Project 1 Guide'
   date: 2022-09-09
   tags: ['none']
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7242279'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2412758'
 
 inheritance:
   <<: *default
