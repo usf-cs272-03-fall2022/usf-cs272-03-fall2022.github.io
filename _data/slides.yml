@@ -14,14 +14,14 @@ exceptions:
   <<: *default
   text: 'Exception Handling'
   tags: ['exceptions']
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vROu3FS53xFrjB_HQzBYEW16rhtulZgAlXrLr6V30Se60zvEo4_ryQb9tXRb5U9klMRkg4vXdqpOENp/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSAND9sC8Wy_QhfpIN7oYWDrWcPPk8I1jF9tRjt0y0swL3Ya5Y6zAx6jfTeiQkl1SqJaLJY_Pd8pAaJ/pub?start=false&loop=false&delayms=3000'
 
 paths:
   <<: *default
   text: 'Paths and Files'
   tags: ['files']
   tube: 'https://drive.google.com/file/d/1yff1jEPcLSrh0po2Wytc3k9PcLlGZ0xg/view?usp=sharing'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSMw70ffmHrJygS-g_bWOXUo2CsRMhaz1HotrCCYetM2YXIcB0plT_oLgrje18_U8X_cCrjb-d3W3-b/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vR2A7ivYbfgqIUcIhzNEkkvLNlsFCo9TUVJmgk4gnd2KNnS2QsxSYCkAanROWOuRIswqV4UQ-eTmkMk/pub?start=false&loop=false&delayms=3000'
 
 data:
   <<: *default
