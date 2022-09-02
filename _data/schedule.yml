@@ -189,25 +189,23 @@ weeks:
                 type: 'bump'
 
               - text: 'File IO'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/FileIO'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/FileIO'
                 icon: 'code'
 
-              - text: 'EliteFileConverter.java'
+              - text: '– EliteFileConverter.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/FileIO/src/main/java/edu/usfca/cs272/EliteFileConverter.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/FileIO/src/main/java/edu/usfca/cs272/EliteFileConverter.java'
 
-              - text: 'DirectoryStreamDemo.java'
+              - text: '– DirectoryStreamDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/FileIO/src/main/java/edu/usfca/cs272/DirectoryStreamDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/FileIO/src/main/java/edu/usfca/cs272/DirectoryStreamDemo.java'
                 tube: 'https://drive.google.com/file/d/1sAML7el7txCn53kIMccCgEPgOSDDzeCm/view?usp=sharing'
 
           - <<: *content
             items:
               - text: 'PathDemo.java'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/FileIO/src/main/java/edu/usfca/cs272/PathDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/FileIO/src/main/java/edu/usfca/cs272/PathDemo.java'
 
           - <<: *assignments
             items:
@@ -234,25 +232,22 @@ weeks:
 
               - text: 'Data Structures'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/DataStructures'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/DataStructures'
                 type: ['bump']
 
-              - text: 'CollectionDemo.java'
+              - text: '– CollectionDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/CollectionDemo.java'
-                tube: 'https://drive.google.com/file/d/1UbVnpLnFL1v0AKH6pazLRH0jKh1OkTF1/view?usp=sharing'
-
-              - text: 'MapDemo.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/MapDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/CollectionDemo.java'
                 tube: 'https://drive.google.com/file/d/1byBtkaRo7WkY3cBfPXJNkvEi3D7UhoJD/view?usp=sharing'
 
-              - text: 'NestedMapDemo.java'
+              - text: '– MapDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/NestedMapDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/MapDemo.java'
+                tube: 'https://drive.google.com/file/d/1UbVnpLnFL1v0AKH6pazLRH0jKh1OkTF1/view?usp=sharing'
+
+              - text: '– NestedMapDemo.java'
+                icon: indented
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/NestedMapDemo.java'
 
           - <<: *assignments
             items:
