@@ -25,26 +25,26 @@ introduction_reply:
 assistants_reply:
   <<: *default
   text: 'TA Introductions'
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223885'
+  link: 'https://usfca.instructure.com/courses/1610487/discussion_topics/8112062'
   date: 2022-09-02
 
 homework_setup:
   <<: *default
   text: 'Homework Setup'
   date: 2022-09-02
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223894'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237365'
 
 project_setup:
   <<: *default
   text: 'Project Setup'
   date: 2022-09-09
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223919'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237389'
 
 lecture_setup:
   <<: *default
   text: 'Lecture Setup'
   date: 2022-09-09
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223898'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237369'
 
 intake_review:
   <<: *default
