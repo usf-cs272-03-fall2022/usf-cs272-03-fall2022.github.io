@@ -23,7 +23,7 @@ links:
   github:
     name: 'GitHub'
     icon: 'fab fa-github-alt'
-    link: 'https://github.com/usf-cs272-03-fall2022/'
+    link: 'https://github.com/usf-cs272-03-fall2022'
     info: 'lecture code, homework templates, and project tests'
 
   forums:
