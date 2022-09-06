@@ -88,11 +88,6 @@ cs_event:
 
 
 
-# intake_review:
-#   <<: *default
-#   text: 'Code Review Intake'
-#   date: 2022-02-25
-#   link: 'https://usfca.instructure.com/courses/1610487/assignments/7237353'
 
 
 
