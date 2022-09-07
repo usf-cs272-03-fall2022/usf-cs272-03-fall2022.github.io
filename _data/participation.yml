@@ -50,7 +50,7 @@ intake_review:
   <<: *default
   text: 'Code Review Intake'
   date: 2022-09-16
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223888'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237353'
 
 # end of semester
 

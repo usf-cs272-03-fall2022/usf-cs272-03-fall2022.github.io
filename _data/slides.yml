@@ -48,7 +48,7 @@ projects:
   <<: *default
   tags: ['none']
   text: 'Project Overview'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vRG9FEXbAK_1mMZ6jIy4O_v7YJTCAwsr-a0Y19M3HiV8XsNOrkx7VwyrosOKvwPMxtwqiFRR2pd6euD/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vShHhuWqhAQFc8_vAv9PglnxJe2JAnFJo6S7dZIEwUcqTJ5WzqxNi86WjjQl209vn4zb-NTV6d1KA2j/pub?start=false&loop=false&delayms=3000'
 
 help:
   <<: *default

@@ -329,29 +329,26 @@ weeks:
 
               - text: 'Data Structures'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/DataStructures'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/DataStructures'
                 type: ['bump']
 
-              - text: 'IterationDemo.java'
+              - text: '– IterationDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/IterationDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/IterationDemo.java'
 
-              - text: 'MutableSetDemo.java'
+              - text: '– MutableSetDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/MutableSetDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/MutableSetDemo.java'
 
-              - text: 'RemoveDemo.java'
+              - text: '– RemoveDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/RemoveDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/RemoveDemo.java'
 
           - <<: *content
             items:
               - text: 'FindDemo.java'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/FindDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/FindDemo.java'
 
           - <<: *assignments
             items:
