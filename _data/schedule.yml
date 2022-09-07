@@ -350,11 +350,6 @@ weeks:
                 icon: 'code'
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/DataStructures/src/main/java/edu/usfca/cs272/FindDemo.java'
 
-          - <<: *assignments
-            items:
-              - file: 'participation'
-                name: 'intake_review'
-
       - date: 2022-09-09
         sections:
           - <<: *lectures
