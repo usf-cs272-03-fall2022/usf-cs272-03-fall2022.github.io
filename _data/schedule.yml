@@ -369,23 +369,20 @@ weeks:
 
               - text: 'Inheritance Basics'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/InheritanceBasics'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/InheritanceBasics'
                 type: ['bump']
 
-              - text: 'WordGroup.java'
+              - text: '– WordGroup.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/WordGroup.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/WordGroup.java'
 
-              - text: 'PrefixMap.java'
+              - text: '– PrefixMap.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/PrefixMap.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/PrefixMap.java'
 
-              - text: 'PrefixDemo.java'
+              - text: '– PrefixDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/PrefixDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/PrefixDemo.java'
 
           - <<: *content
             items:
