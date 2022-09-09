@@ -27,21 +27,21 @@ data:
   <<: *default
   tags: ['data']
   text: 'Abstract Data Types'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSsSJlcmoH-SWqcDhl6iFdVpS4EwFVUHfCNVtDCY3GSDhvtl_6XKYn3GHN7fW66-kTgqjpPFEnf04db/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vQfm1JSUZQgruPfTYeSTb1M3A42QnJFCD0w_2-P9MYfp_CqC4gdcHOyWaqTBTsGEx9kNuN9iL4Z9HZq/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1OvFMONm4PEYQ8LtR9P9BxkfxxJZrGNK4/view?usp=sharing'
 
 collections:
   <<: *default
   tags: ['data']
   text: 'Collections Framework'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSuurg3CcidG3_JCw68NOnSKep8DzY_e9ZtANCB8x1g0G8q79Oe7zwUxTSZQLmwjKsagv6Ygw1_i1VH/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vTByIrTURuvdHQrI1SxKb3EmN2xjBJrhNZNc-SJBYf1De7ZNO-GLNVtQaHDjRou0e1dKwFMUdr9pTyK/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1O2I-vvdaul1AEZ31PO6KrFakcw1ORlkJ/view?usp=sharing'
 
 oop:
   <<: *default
   tags: ['objects']
   text: 'Object Oriented Programming'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vTHOQmSkbb8ey4RK0fV-S3ObZ2bK-AUltiRCRPK7xlca06fiOngxOn02rOQBwZ3Miv-WrDWZUD8NOqs/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vRMY63SJLHh4JybMUOU1AfyZcKIk8UqjziEjZE0GtFSaYGgmzGKoppekUgP3GfCuINmdpjfxtuQ68Km/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/14aTl6kRfuIptdA3T9kOx75FNUBXS7tGX/view?usp=sharing'
 
 projects:
@@ -60,14 +60,14 @@ inheritance:
   <<: *default
   tags: ['inheritance']
   text: 'Inheritance Relationships'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vRERLodkAk1fbT4ViN7An3U2udLB30MAEzqf8POvrRXRgjX68uYtZpI0G_osB-KUJBTC7Wry6Mg6fax/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSOcjPCszQ0ju_ZBVPjFyPlopkk_eVZ4UlPLHKY107XuUpPqsy233OPRlUgI8Hu1NHfZH0FSnKd7fyJ/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1eu_Co497YW-6vW6JpbtUkET75VZ3iFyw/view?usp=sharing'
 
 abstract:
   <<: *default
   tags: ['inheritance']
   text: 'Abstract and Interfaces'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vRGzFfMR5DzWcEKtJbgKVaXvUjgRjjPg35S5fblIhJwbwaGY8MFLRjVHnt1YmsD71ep7qhvy7qWsKXN/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vQKlKGE98lW5Wj2ZsjYcoOzyHu-Z5qwPGZY6HKim1xxy7eyCinuy8f-Iqv0puuYDARu1YmmifeFPx8k/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1PmAI01wb-SL5_ImzTJ_mfUiBo0Pxicfd/view?usp=sharing'
 
 generics:
@@ -81,7 +81,7 @@ revisited:
   <<: *default
   tags: ['inheritance']
   text: 'Collections Revisited'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vTplKJJQvcBbXh4ZOAPePKrXQnCYo0VL0MIeOSA_Ycq7TXNbSX2yEpP6PITOuIyReoCiLmMUwumV0p0/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSQ48YVrfrtMT-PDIT8lPe-HtoNhdvKc0t11w3Gp_g0OozxEyfk7xns2igA0Ho-9cR0b1qVvZBAIIva/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1NO1gWoNzCMx4Rs5GkZe0ICK8OrI6uk2z/view?usp=sharing'
 
 casting:
@@ -102,7 +102,7 @@ final:
   <<: *default
   tags: ['inheritance']
   text: 'Final Keyword'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vRsnBGeqewLKwSgm2XIfplLk_D2O_SZH8fbI-buemxgycpPvVVcs03AbKEzux_WGT9P_ty1ZFt8lJ07/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSoZsC1rhMQXShX6Agn5G7tl5qjXgilo2hP44u4X7F9pCWXfby4W-11vr-N2kNOlElBY5VzhtuQBsTR/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1L61dJEpzn1yAwP7dizMCqGnhtSlyNFlP/view?usp=sharing'
 
 nested:
