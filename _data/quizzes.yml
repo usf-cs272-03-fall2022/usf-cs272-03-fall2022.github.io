@@ -43,7 +43,7 @@ project1:
 inheritance:
   <<: *default
   text: 'Inheritance Keywords'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409342'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237325'
   date: 2022-09-16
   tags: ['inheritance']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413867'
@@ -51,7 +51,7 @@ inheritance:
 collections:
   <<: *default
   text: 'Collections Revisited'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409376'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237345'
   date: 2022-09-16
   tags: ['inheritance']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413869'
@@ -59,7 +59,7 @@ collections:
 static:
   <<: *default
   text: 'Instance vs Static'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409339'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237339
   date: 2022-09-23
   tags: ['objects']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413857'
@@ -67,7 +67,7 @@ static:
 identifier:
   <<: *default
   text: 'Instance vs Identifier'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409345'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237331'
   date: 2022-09-23
   tags: ['objects']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413864'
@@ -75,7 +75,7 @@ identifier:
 mutability1:
   <<: *default
   text: 'Mutability Part 1'
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7244526'
+  link: '#'
   date: 2022-09-23
   tags: ['objects']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413855'
@@ -83,7 +83,7 @@ mutability1:
 mutability2:
   <<: *default
   text: 'Mutability Part 2'
-  link: 'https://usfca.instructure.com/courses/1608197/assignments/7223879'
+  link: '#'
   date: 2022-09-23
   tags: ['objects']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413860'
@@ -91,7 +91,7 @@ mutability2:
 casting:
   <<: *default
   text: 'Casting'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409346'
+  link: '#'
   date: 2022-09-23
   tags: ['inheritance']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413868'
@@ -99,7 +99,7 @@ casting:
 nesting:
   <<: *default
   text: 'Nested Classes'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409348'
+  link: '#'
   date: 2022-09-23
   tags: ['inheritance']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413865'
