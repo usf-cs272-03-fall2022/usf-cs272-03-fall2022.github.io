@@ -485,22 +485,28 @@ weeks:
                 link: '#'
                 tube: 'https://drive.google.com/file/d/1Haj475bCoHuTN3TZBAuYgsafkeka8WNA/view?usp=sharing'
 
-              - text: 'Exploring Objects'
-                icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/ExploringObjects'
+              - file: 'slides'
+                name: 'object'
                 type: ['bump']
 
               - text: 'ObjectDemo.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/ObjectDemo.java'
+                icon: 'code'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/ObjectDemo.java'
                 tube: 'https://drive.google.com/file/d/1U0uVHUPp1-zZK-J5rVn0X-pP2CdxF3el/view?usp=sharing'
 
-              - text: 'StringDemo.java'
+              - text: 'Exploring Objects'
+                icon: 'code'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/ExploringObjects'
+                type: ['bump']
+
+              - text: '– StringDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/StringDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/StringDemo.java'
                 tube: 'https://drive.google.com/file/d/1Gncwuj-YnyaPivB3vQLLyWVM-8ZnFjeT/view?usp=sharing'
+
+              - text: '– HashCodeDemo.java'
+                icon: indented
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/HashCodeDemo.java'
 
           - <<: *content
             items:
@@ -509,12 +515,12 @@ weeks:
 
               - text: 'StaticDemo.java'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/StaticDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/StaticDemo.java'
                 tube: 'https://drive.google.com/file/d/13OATz6xNyiRGQXX_ZzSHPWSwt8mEaLji/view?usp=sharing'
 
               - text: ''
                 icon: 'code'
-                more: '<a href="https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/Widget.java">Widget.java</a>, <a href="https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/WidgetDemo.java">WidgetDemo.java</a>'
+                more: '<a href="https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/Widget.java">Widget.java</a>, <a href="https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/WidgetDemo.java">WidgetDemo.java</a>'
                 tube: 'https://drive.google.com/file/d/1GHR0n-CskeZh2ABFQsGcZERDza1fot4s/view?usp=sharing'
 
           - <<: *assignments
@@ -531,41 +537,30 @@ weeks:
             items:
               - text: 'Exploring Objects'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/ExploringObjects'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/ExploringObjects'
                 type: ['bump']
 
-              - text: 'StringDemo.java'
-                more: '(Revisited)'
+              - text: '– MutabilityDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/StringDemo.java'
-                tube: 'https://drive.google.com/file/d/1Gncwuj-YnyaPivB3vQLLyWVM-8ZnFjeT/view?usp=sharing'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/MutabilityDemo.java'
 
-              - text: 'HashCodeDemo.java'
+              - text: '– MapMutabilityDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/HashCodeDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/MapMutabilityDemo.java'
 
-              - text: 'MutabilityDemo.java'
+              - text: '– ConcatenationDemo.java'
                 icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/MutabilityDemo.java'
-
-              - text: 'MapMutabilityDemo.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/MapMutabilityDemo.java'
-
-              - text: 'ConcatenationDemo.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/ConcatenationDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ExploringObjects/src/main/java/edu/usfca/cs272/ConcatenationDemo.java'
 
           - <<: *content
             items:
               - file: 'slides'
                 name: 'casting'
 
+              - text: 'CastDemo.java'
+                icon: 'code'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/CastDemo.java
+'
               - file: 'slides'
                 name: 'nested'
 
@@ -640,50 +635,39 @@ weeks:
             items:
               - text: 'Inheritance Revisited'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/InheritanceBasics'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/InheritanceBasics'
                 type: ['bump']
 
-              - text: 'CastDemo.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/CastDemo.java'
+              - text: '– Shape.java'
+                icon: 'nothing'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Shape.java'
 
-              - text: 'Shape.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Shape.java'
+              - text: '– Rectangle.java'
+                icon: 'nothing'
+                more: 'and <a href="https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Square.java">Square.java</a>'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Rectangle.java'
 
-              - text: 'Rectangle.java'
-                icon: indented
-                type: ['push']
-                more: 'and <a href="https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Square.java">Square.java</a>'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Rectangle.java'
-
-              - text: 'ShapeDemo.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/ShapeDemo.java'
+              - text: '– ShapeDemo.java'
+                icon: 'nothing'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/ShapeDemo.java'
 
               - text: 'Gadget Sort Demo'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/InheritanceTopics'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/InheritanceTopics'
                 tube: 'https://drive.google.com/file/d/1LLItjwK8SwopHXJdZ7o1vffT1nNvoaEa/view?usp=sharing'
                 type: ['bump']
 
-              - text: 'Gadget.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/Gadget.java'
+              - text: '– Gadget.java'
+                icon: 'nothing'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/Gadget.java'
 
-              - text: 'GadgetComparator.java'
-                icon: indented
-                type: ['push', 'strike']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GadgetComparator.java'
+              - text: '- GadgetComparator.java'
+                icon: 'nothing'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GadgetComparator.java'
 
-              - text: 'GadgetSortDemo.java'
-                icon: indented
-                type: ['push', 'strike']
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GadgetSortDemo.java'
+              - text: '- GadgetSortDemo.java'
+                icon: 'nothing'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GadgetSortDemo.java'
 
           - <<: *assignments
             items:
