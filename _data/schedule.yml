@@ -482,7 +482,7 @@ weeks:
 
               - text: 'GenericTypesDemo.java'
                 icon: 'code'
-                link: '#'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GenericTypesDemo.java'
                 tube: 'https://drive.google.com/file/d/1Haj475bCoHuTN3TZBAuYgsafkeka8WNA/view?usp=sharing'
 
               - file: 'slides'
