@@ -8,7 +8,7 @@ project1_tests:
   <<: *default
   text: 'Project 1 Tests'
   link: '/guides/projects/project-1.html'
-  date: 2022-09-20
+  date: 2022-09-21
   icon: 'project'
   type: ['has-text-usf-plum']
   canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237377'
@@ -18,7 +18,7 @@ project1_review1:
   <<: *default
   text: 'Project 1 Review 1'
   link: '/guides/projects/project-1.html'
-  date: 2022-09-27
+  date: 2022-09-28
   icon: 'review'
   canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237375'
   points: 30
@@ -27,7 +27,7 @@ project1_review2:
   <<: *default
   text: 'Project 1 Review 2'
   link: '/guides/projects/project-1.html'
-  date: 2022-10-04
+  date: 2022-10-05
   icon: 'review'
   canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237376'
   points: 20
@@ -36,7 +36,7 @@ project1_design:
   <<: *default
   text: 'Project 1 Design'
   link: '/guides/projects/project-1.html'
-  date: 2022-10-11
+  date: 2022-10-12
   canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237374'
   points: 50
 
@@ -49,7 +49,7 @@ project2_tests:
   <<: *default
   text: 'Project 2 Tests'
   link: '/guides/projects/project-2.html'
-  date: 2022-10-25
+  date: 2022-10-26
   points: 100
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223911'
 
@@ -57,7 +57,7 @@ project2_review1:
   <<: *default
   text: 'Project 2 Review 1'
   link: '/guides/projects/project-2.html'
-  date: 2022-11-01
+  date: 2022-11-02
   icon: 'review'
   points: 30
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223909'
@@ -66,7 +66,7 @@ project2_review2:
   <<: *default
   text: 'Project 2 Review 2'
   link: '/guides/projects/project-2.html'
-  date: 2022-11-08
+  date: 2022-11-09
   icon: 'review'
   points: 20
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223910'
@@ -75,7 +75,7 @@ project2_design:
   <<: *default
   text: 'Project 2 Design'
   link: '/guides/projects/project-2.html'
-  date: 2022-11-15
+  date: 2022-11-16
   points: 50
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223908'
 
@@ -88,7 +88,7 @@ project3_tests:
   <<: *default
   text: 'Project 3 Tests'
   link: '/guides/projects/project-3.html'
-  date: 2022-11-15
+  date: 2022-11-16
   points: 100
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223915'
 
@@ -96,7 +96,7 @@ project3_review1:
   <<: *default
   text: 'Project 3 Review 1'
   link: '/guides/projects/project-3.html'
-  date: 2022-11-29
+  date: 2022-11-23
   icon: 'review'
   points: 30
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223913'
