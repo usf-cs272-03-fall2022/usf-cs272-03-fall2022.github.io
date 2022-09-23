@@ -638,17 +638,20 @@ weeks:
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/InheritanceBasics'
                 type: ['bump']
 
-              - text: '– Shape.java'
-                icon: 'nothing'
+              - text: 'Shape.java'
+                icon: indented
+                type: ['push']
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Shape.java'
 
-              - text: '– Rectangle.java'
-                icon: 'nothing'
+              - text: 'Rectangle.java'
                 more: 'and <a href="https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Square.java">Square.java</a>'
+                icon: indented
+                type: ['push']
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/Rectangle.java'
 
-              - text: '– ShapeDemo.java'
-                icon: 'nothing'
+              - text: 'ShapeDemo.java'
+                icon: indented
+                type: ['push']
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceBasics/src/main/java/edu/usfca/cs272/ShapeDemo.java'
 
               - text: 'Gadget Sort Demo'
@@ -657,16 +660,19 @@ weeks:
                 tube: 'https://drive.google.com/file/d/1LLItjwK8SwopHXJdZ7o1vffT1nNvoaEa/view?usp=sharing'
                 type: ['bump']
 
-              - text: '– Gadget.java'
-                icon: 'nothing'
+              - text: 'Gadget.java'
+                icon: indented
+                type: ['push']
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/Gadget.java'
 
-              - text: '- GadgetComparator.java'
-                icon: 'nothing'
+              - text: 'GadgetComparator.java'
+                icon: indented
+                type: ['push']
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GadgetComparator.java'
 
-              - text: '- GadgetSortDemo.java'
-                icon: 'nothing'
+              - text: 'GadgetSortDemo.java'
+                icon: indented
+                type: ['push']
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GadgetSortDemo.java'
 
           - <<: *assignments
