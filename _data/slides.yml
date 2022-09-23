@@ -114,14 +114,14 @@ nested:
 java:
   <<: *default
   text: 'Java Features'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vQgwh-Ed-cHJac54JsmOnFAAwXsApcUzkqJZeQsf1IS36NYlxcSAa1VjQc0qEYvjK2AGXZQ70C8ldfC/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vTO3-QRdj_KUrEh4jPGuggKP3GsBxIqeVvCpqB9yzaSK9LILBxabnKjeSnSK9YZ15sQa3cnxEaJxlnP/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1WNk4AG9zWdC-n58sLeCEkgVA8VEgFUji/view?usp=sharing'
 
 lambdas:
   <<: *default
   tags: ['lambdas']
   text: 'Lambda Expressions'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vTmBu1XB3WYKH1KXyLtUqQyV40Lh2ceGW5G8beU-XlSGfbKCLPVRh8Lfmn6DGzfOUi85g7qVsEATXvd/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vQfDyj-77sNvpmSHCr_PICyvCt6BsQf4eADQlYYveV17ScpTjwhIyQzL9njkBc9KbaxZRNHq-b3yi5_/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1H2_A1qYec7PtvSPi_9TiC-nI51dpAlG-/view?usp=sharing'
 
 streams:
