@@ -693,27 +693,6 @@ weeks:
         sections:
           - <<: *lectures
             items:
-              - text: 'Gadget Sort Demo'
-                icon: 'code'
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/InheritanceTopics'
-                tube: 'https://drive.google.com/file/d/1LLItjwK8SwopHXJdZ7o1vffT1nNvoaEa/view?usp=sharing'
-                type: ['bump']
-
-              - text: 'Gadget.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/Gadget.java'
-
-              - text: 'GadgetComparator.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GadgetComparator.java'
-
-              - text: 'GadgetSortDemo.java'
-                icon: indented
-                type: ['push']
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/InheritanceTopics/src/main/java/edu/usfca/cs272/GadgetSortDemo.java'
-
               - file: 'slides'
                 name: 'java'
                 type: 'bump'
@@ -725,7 +704,7 @@ weeks:
                 icon: 'code'
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/LambdaExpressions'
                 type: ['bump']
-              
+
               - text: 'StringSorter.java'
                 icon: 'indented'
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/LambdaExpressions/src/main/java/edu/usfca/cs272/StringSorter.java'
@@ -928,9 +907,6 @@ weeks:
 
           - <<: *deadlines
             items:
-              - text: 'Sophie @ Conference'
-                icon: 'travel'
-                type: [*pending]
 
       - date: 2022-09-30
         sections:
@@ -990,10 +966,6 @@ weeks:
               - file: homework
                 name: filesorter
                 type: ['bump']
-
-              - text: 'Sophie @ Conference'
-                icon: 'travel'
-                type: [*pending, 'bump']
 
   - week: 7
     days:
