@@ -941,7 +941,7 @@ weeks:
 
               - text: 'Code Reviews'
                 icon: 'review'
-                type: ['bump', 'strike']
+                type: ['bump']
 
           - <<: *assignments
             items:
