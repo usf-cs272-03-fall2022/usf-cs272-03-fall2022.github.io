@@ -796,17 +796,17 @@ weeks:
             items:
               - text: 'Lambda Expressions'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/LambdaExpressions'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/LambdaExpressions'
                 type: ['bump']
 
               - text: 'PathMatcher.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/LambdaExpressions/src/main/java/edu/usfca/cs272/PathMatcherDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/LambdaExpressions/src/main/java/edu/usfca/cs272/PathMatcherDemo.java'
                 type: ['push']
 
               - text: 'LambdaDemo.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/LambdaExpressions/src/main/java/edu/usfca/cs272/LambdaDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/LambdaExpressions/src/main/java/edu/usfca/cs272/LambdaDemo.java'
                 type: ['push']
 
               - file: 'slides'
@@ -815,22 +815,22 @@ weeks:
               
               - text: 'Stream Pipelines'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/StreamPipelines'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/StreamPipelines'
                 type: ['bump']
 
               - text: 'PipelineDemo.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/PipelineDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/PipelineDemo.java'
                 type: ['push']
 
               - text: 'ParallelStreamBenchmark.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/ParallelStreamBenchmark.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/ParallelStreamBenchmark.java'
                 type: ['push', 'del']
 
               - text: 'StreamDemo.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/StreamDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/StreamDemo.java'
                 type: ['push', 'del']
                 tube: 'https://drive.google.com/file/d/18RKTIjJmH1ovGVIwbVzfCIiDBq1BhmbP/view?usp=sharing'
 
