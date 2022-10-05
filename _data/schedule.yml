@@ -931,17 +931,17 @@ weeks:
             items:
               - text: 'Stream Pipelines'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/StreamPipelines'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/StreamPipelines'
                 type: ['bump']
 
               - text: 'PipelineDemo.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/PipelineDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/PipelineDemo.java'
                 type: ['push']
 
               - text: 'ParallelStreamBenchmark.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/ParallelStreamBenchmark.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/ParallelStreamBenchmark.java'
                 type: ['push']
 
               - file: 'slides'
@@ -950,24 +950,24 @@ weeks:
 
               - text: 'Regular Expressions'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/RegularExpressions'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/RegularExpressions'
                 type: ['bump']
 
               - text: 'RegexClasses.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/RegularExpressions/src/main/java/edu/usfca/cs272/RegexClasses.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/RegularExpressions/src/main/java/edu/usfca/cs272/RegexClasses.java'
                 type: ['push']
                 tube: 'https://drive.google.com/file/d/1TFSN35nVHQlhAqptWLbApR_3hg89v1yF/view?usp=sharing'
 
               - text: 'RegexQuantifiers.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/RegularExpressions/src/main/java/edu/usfca/cs272/RegexQuantifiers.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/RegularExpressions/src/main/java/edu/usfca/cs272/RegexQuantifiers.java'
                 type: ['push']
                 tube: 'https://drive.google.com/file/d/1OwNQ72SGStcDEFZBvw40bQW2ldjEfiUg/view?usp=sharing'
 
               - text: 'RegexWordParsing.java'
                 icon: 'indented'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/RegularExpressions/src/main/java/edu/usfca/cs272/RegexWordParsing.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/RegularExpressions/src/main/java/edu/usfca/cs272/RegexWordParsing.java'
                 type: ['push', 'del']
                 tube: 'https://drive.google.com/file/d/1FdZnv-uN5_5o1YCVjbwz-r4F-GybabH0/view?usp=sharing'
 
@@ -975,7 +975,7 @@ weeks:
             items:
               - text: 'StreamDemo.java'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/StreamDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/StreamDemo.java'
                 tube: 'https://drive.google.com/file/d/18RKTIjJmH1ovGVIwbVzfCIiDBq1BhmbP/view?usp=sharing'
 
           - <<: *assignments
@@ -1002,7 +1002,7 @@ weeks:
 
               - text: 'Regular Expressions'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/RegularExpressions'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/RegularExpressions'
                 type: ['bump']
 
               - text: 'RegexWordParsing.java'

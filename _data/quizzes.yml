@@ -46,7 +46,7 @@ inheritance:
   link: 'https://usfca.instructure.com/courses/1610487/assignments/7237325'
   date: 2022-09-16
   tags: ['inheritance']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413867'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411872'
 
 collections:
   <<: *default
@@ -54,7 +54,7 @@ collections:
   link: 'https://usfca.instructure.com/courses/1610487/assignments/7237345'
   date: 2022-09-16
   tags: ['inheritance']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413869'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411902'
 
 static:
   <<: *default
@@ -62,7 +62,7 @@ static:
   link: 'https://usfca.instructure.com/courses/1610487/assignments/7237339'
   date: 2022-09-23
   tags: ['objects']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413857'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411896'
 
 identifier:
   <<: *default
@@ -70,7 +70,7 @@ identifier:
   link: 'https://usfca.instructure.com/courses/1610487/assignments/7237331'
   date: 2022-09-23
   tags: ['objects']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413864'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411880'
 
 mutability1:
   <<: *default
@@ -79,55 +79,55 @@ mutability1:
 '
   date: 2022-09-23
   tags: ['objects']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413855'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411862'
 
 mutability2:
   <<: *default
   text: 'Mutability Part 2'
-  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411858'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237317'
   date: 2022-09-23
   tags: ['objects']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413860'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411858'
 
 casting:
   <<: *default
   text: 'Casting'
-  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411860'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237319'
   date: 2022-09-23
   tags: ['inheritance']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413868'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411860'
 
 nesting:
   <<: *default
   text: 'Nested Classes'
-  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411877'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237329'
   date: 2022-09-23
   tags: ['inheritance']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413865'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411877'
 
 java:
   <<: *default
   text: 'Java Features'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409344'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237344'
   date: 2022-09-30
   tags: ['none']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413862'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411901'
 
 lambdas:
   <<: *default
   text: 'Lambda Expressions'
   date: 2022-09-30
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409336'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237323'
   tags: ['lambdas']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413861'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411869'
 
 streams:
   <<: *default
   text: 'Stream Pipelines'
   date: 2022-09-30
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409358'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237336'
   tags: ['streams']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413859'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411890'
 
 project2:
   <<: *default
@@ -140,9 +140,9 @@ regex:
   <<: *default
   text: 'Regular Expressions'
   date: 2022-10-14
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409343'
+  link: 'https://usfca.instructure.com/courses/1610487/assignments/7237335'
   tags: ['regexes']
-  test: 'https://usfca.instructure.com/courses/1608197/quizzes/2413856'
+  test: 'https://usfca.instructure.com/courses/1610487/quizzes/2411889'
 
 # # unit:
 # #   <<: *default
