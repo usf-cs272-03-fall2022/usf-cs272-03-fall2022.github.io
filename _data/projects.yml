@@ -18,7 +18,7 @@ project1_review1:
   <<: *default
   text: 'Project 1 Review 1'
   link: '/guides/projects/project-1.html'
-  date: 2022-09-28
+  date: 2022-10-12
   icon: 'review'
   canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237375'
   points: 30
@@ -27,7 +27,7 @@ project1_review2:
   <<: *default
   text: 'Project 1 Review 2'
   link: '/guides/projects/project-1.html'
-  date: 2022-10-05
+  date: 2022-10-19
   icon: 'review'
   canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237376'
   points: 20
@@ -36,7 +36,7 @@ project1_design:
   <<: *default
   text: 'Project 1 Design'
   link: '/guides/projects/project-1.html'
-  date: 2022-10-12
+  date: 2022-10-26
   canvas: 'https://usfca.instructure.com/courses/1610487/assignments/7237374'
   points: 50
 
