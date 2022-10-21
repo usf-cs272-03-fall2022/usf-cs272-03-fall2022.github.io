@@ -1196,6 +1196,13 @@ weeks:
               - file: 'slides'
                 name: 'testing_unit'
 
+          - <<: *deadlines
+            items:
+              - text: 'Exam 1 Retake'
+                icon: 'exam'
+                date: 2022-10-19
+                type: ['has-text-danger']
+
       - date: 2022-10-21
         sections:
           - <<: *lectures
@@ -1208,17 +1215,17 @@ weeks:
 
               - text: 'Multithreading Basics'
                 icon: 'code'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/Multithreading'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/Multithreading'
                 type: ['bump']
 
               - text: 'RandomArrayDemo.java'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/RandomArrayTotal.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/RandomArrayTotal.java'
                 icon: 'indented'
                 tube: 'https://drive.google.com/file/d/12aYTi2LQW3W-8GYG-G1A-Febu9Wlof7c/view?usp=sharing'
                 type: ['push']
 
               - text: 'ThreadStateDemo.java'
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/ThreadStateDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/ThreadStateDemo.java'
                 icon: 'indented'
                 tube: 'https://drive.google.com/file/d/1ddBJ9YG-xYORgvGbVIKz3z0tj-89n1T6/view?usp=sharing'
                 type: ['push']
@@ -1243,13 +1250,6 @@ weeks:
 
               - file: participation
                 name: midterm_survey
-
-          - <<: *deadlines
-            items:
-              - text: 'Exam 1 Retake'
-                icon: 'exam'
-                date: 2022-10-19
-                type: ['has-text-danger']
 
       - date: 2022-10-21
         sections:
