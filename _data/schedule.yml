@@ -1248,7 +1248,7 @@ weeks:
             items:
               - text: 'Exam 1 Retake'
                 icon: 'exam'
-                date: 2022-10-20
+                date: 2022-10-19
                 type: ['has-text-danger']
 
       - date: 2022-10-21
