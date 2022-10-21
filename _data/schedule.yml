@@ -833,11 +833,6 @@ weeks:
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/StreamPipelines/src/main/java/edu/usfca/cs272/StreamDemo.java'
                 type: ['push', 'del']
                 tube: 'https://drive.google.com/file/d/18RKTIjJmH1ovGVIwbVzfCIiDBq1BhmbP/view?usp=sharing'
-
-          - <<: *deadlines
-            items:
-              - file: projects
-                name: project1_review1
                 
       - date: 2022-09-30
         sections:
@@ -982,11 +977,6 @@ weeks:
             items:
               - file: 'quizzes'
                 name: 'regex'
-
-          - <<: *deadlines
-            items:
-              - file: projects
-                name: project1_review2
                 
       - date: 2022-10-07
         sections:
@@ -1095,7 +1085,7 @@ weeks:
           - <<: *deadlines
             items:
               - file: projects
-                name: project1_design
+                name: project1_review1
 
       - date: 2022-10-14
         sections:
@@ -1202,6 +1192,8 @@ weeks:
                 icon: 'exam'
                 date: 2022-10-19
                 type: ['has-text-danger']
+              - file: projects
+                name: project1_review2
 
       - date: 2022-10-21
         sections:
@@ -1351,6 +1343,8 @@ weeks:
 
           - <<: *deadlines
             items:
+              - file: projects
+                name: project1_design
               - file: projects
                 name: project2_tests
 
