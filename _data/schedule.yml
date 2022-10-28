@@ -1435,8 +1435,21 @@ weeks:
 
           - <<: *deadlines
             items:
+              - file: participation
+                name: midterm_survey
+
+              - file: homework
+                name: loggersetup
+
+              - text: 'Project Cutoff'
+                icon: 'project'
+                date: 2022-11-01
+                type: ['has-text-danger', 'has-text-weight-bold']
+                type: 'bump'
+
               - file: 'quizzes'
                 name: 'asserts'
+                type: 'bump'
 
               - file: 'quizzes'
                 name: 'logging'
@@ -1444,12 +1457,6 @@ weeks:
               - file: 'quizzes'
                 name: 'threads'
 
-              - file: participation
-                name: midterm_survey
-
-              - file: homework
-                name: loggersetup
-                type: 'bump'
 
   - week: 11
     days:
@@ -1518,13 +1525,23 @@ weeks:
 
           - <<: *deadlines
             items:
-              - file: projects
-                name: project2_review1
-
               - text: 'Project Cutoff'
                 icon: 'project'
                 date: 2022-11-01
                 type: ['has-text-danger', 'has-text-weight-bold']
+
+              - file: projects
+                name: project2_review1
+
+              - file: 'quizzes'
+                name: 'asserts'
+
+              - file: 'quizzes'
+                name: 'logging'
+
+              - file: 'quizzes'
+                name: 'threads'
+
 
       - date: 2022-11-04
         sections:
