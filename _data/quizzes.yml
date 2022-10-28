@@ -155,24 +155,24 @@ regex:
 asserts:
   <<: *default
   text: 'Assert Statements'
-  date: 2022-10-28
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409381'
+  date: 2022-11-02
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411887'
   tags: ['debugging']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415037'
 
 logging:
   <<: *default
   text: 'Logging'
-  date: 2022-10-28
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409374'
+  date: 2022-11-02
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411859'
   tags: ['debugging']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415039'
 
 threads:
   <<: *default
   text: 'Thread Basics'
-  date: 2022-10-28
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409351'
+  date: 2022-11-02
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411900'
   tags: ['threads']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415033'
 
@@ -180,14 +180,14 @@ project3:
   <<: *default
   text: 'Project 3 Writeup'
   date: 2022-11-04
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409356'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411861'
   tags: ['none']
 
 synchronization:
   <<: *default
   text: 'Synchronization'
   date: 2022-11-04
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409393'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411875'
   tags: ['threads']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415035'
 
@@ -195,7 +195,7 @@ workers:
   <<: *default
   text: 'Work Queues'
   date: 2022-11-11
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409392'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411854'
   tags: ['threads']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415036'
 
