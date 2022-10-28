@@ -1294,43 +1294,35 @@ weeks:
         sections:
           - <<: *lectures
             items:
-              - file: projects
-                name: project3_tests
-                text: 'Project 3 Multithreading'
+              - file: 'slides'
+                name: 'multithreading'
 
-              - file: slides
-                name: lifecycle
-                text: 'Thread States Recap'
-                type: bump
+              - file: 'slides'
+                name: 'lifecycle'
 
-              - file: slides
-                name: synchronization
+              - text: 'Multithreading Basics'
+                icon: 'code'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/Multithreading'
+                type: ['bump']
 
-              - text: Synchronization
-                icon: code
-                type: bump
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/Synchronization'
+              - text: 'RandomArrayDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/RandomArrayTotal.java'
+                icon: 'indented'
+                tube: 'https://drive.google.com/file/d/12aYTi2LQW3W-8GYG-G1A-Febu9Wlof7c/view?usp=sharing'
+                type: ['push']
 
-              - text: IndexedSet.java
-                icon: indented
-                type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/IndexedSet.java'
-                tube: 'https://drive.google.com/file/d/1cfdM5jKix8_Q20ZpFm8IuEuu1ZaaKg7E/view?usp=sharing'
+              - text: 'ThreadStateDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/ThreadStateDemo.java'
+                icon: 'indented'
+                tube: 'https://drive.google.com/file/d/1ddBJ9YG-xYORgvGbVIKz3z0tj-89n1T6/view?usp=sharing'
+                type: ['push']
 
-              - text: SynchronizedSet.java
-                icon: indented
-                type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/SynchronizedSet.java'
-                tube: 'https://drive.google.com/file/d/118GTi62tSnV18xAMc8BeTdffHqW4lAqb/view?usp=sharing'
+              - file: 'slides'
+                name: 'consistency'
+                type: ['bump']
 
-              - text: LockDemo.java
-                icon: indented
-                type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/LockDemo.java'
-
-              - file: slides
-                name: coordination
-                type: bump
+              - file: 'slides'
+                name: 'liveness'
 
           - <<: *assignments
             items:
@@ -1352,52 +1344,43 @@ weeks:
         sections:
           - <<: *lectures
             items:
-              - file: slides
-                name: coordination
-                text: 'Coordination Recap'
+              - file: projects
+                name: project3_tests
+                text: 'Project 3 Multithreading'
 
-              - text: Bounded Buffer
-                icon: code
+              - file: slides
+                name: lifecycle
+                text: 'Thread States Recap'
                 type: bump
-                tube: 'https://drive.google.com/file/d/1e20Tr6fUSVmxRe6O4B_l7Ynx3uEBigXC/view?usp=sharing'
-
-              - text: BoundedBuffer.java
-                icon: indented
-                type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/BoundedBuffer.java'
-
-              - text: MirrorDriver.java
-                icon: indented
-                type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/MirrorDriver.java'
 
               - file: slides
-                name: locks
-                type: 'bump'
+                name: synchronization
 
               - text: Synchronization
                 icon: code
                 type: bump
                 link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/Synchronization'
 
-              - text: ConcurrentSet.java
+              - text: IndexedSet.java
                 icon: indented
                 type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/ConcurrentSet.java'
-                tube: 'https://drive.google.com/file/d/16DmQjV8tkQjnFrAR9-Ivpu_tOgrJbSTs/view?usp=sharing'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/IndexedSet.java'
+                tube: 'https://drive.google.com/file/d/1cfdM5jKix8_Q20ZpFm8IuEuu1ZaaKg7E/view?usp=sharing'
 
-              - text: SetDemo.java
+              - text: SynchronizedSet.java
                 icon: indented
                 type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/SetDemo.java'
-                tube: 'https://drive.google.com/file/d/1rsm1VLf2-asJ_iqLVKU2-cR0F7fJ3u_L/view?usp=sharing'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/SynchronizedSet.java'
+                tube: 'https://drive.google.com/file/d/118GTi62tSnV18xAMc8BeTdffHqW4lAqb/view?usp=sharing'
+
+              - text: LockDemo.java
+                icon: indented
+                type: push
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/LockDemo.java'
 
               - file: slides
-                name: volatile
+                name: coordination
                 type: bump
-
-              - file: slides
-                name: pools
 
           - <<: *assignments
             items:
