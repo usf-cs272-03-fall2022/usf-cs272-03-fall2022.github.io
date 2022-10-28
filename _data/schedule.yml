@@ -1444,8 +1444,7 @@ weeks:
               - text: 'Project Cutoff'
                 icon: 'project'
                 date: 2022-11-01
-                type: ['has-text-danger', 'has-text-weight-bold']
-                type: 'bump'
+                type: ['bump', 'has-text-danger', 'has-text-weight-bold']
 
               - file: 'quizzes'
                 name: 'asserts'
