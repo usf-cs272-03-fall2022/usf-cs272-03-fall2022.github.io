@@ -1462,6 +1462,77 @@ weeks:
       - date: 2022-11-02
         sections:
           - <<: *lectures
+              - file: slides
+                name: coordination
+                text: 'Coordination Recap'
+
+              - text: Bounded Buffer
+                icon: code
+                type: bump
+                tube: 'https://drive.google.com/file/d/1e20Tr6fUSVmxRe6O4B_l7Ynx3uEBigXC/view?usp=sharing'
+
+              - text: BoundedBuffer.java
+                icon: indented
+                type: push
+                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/BoundedBuffer.java'
+
+              - text: MirrorDriver.java
+                icon: indented
+                type: push
+                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/MirrorDriver.java'
+
+              - file: slides
+                name: locks
+                type: 'bump'
+
+              - text: Synchronization
+                icon: code
+                type: bump
+                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/Synchronization'
+
+              - text: ConcurrentSet.java
+                icon: indented
+                type: push
+                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/ConcurrentSet.java'
+                tube: 'https://drive.google.com/file/d/16DmQjV8tkQjnFrAR9-Ivpu_tOgrJbSTs/view?usp=sharing'
+
+              - text: SetDemo.java
+                icon: indented
+                type: push
+                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/SetDemo.java'
+                tube: 'https://drive.google.com/file/d/1rsm1VLf2-asJ_iqLVKU2-cR0F7fJ3u_L/view?usp=sharing'
+
+              - file: slides
+                name: volatile
+                type: bump
+
+              - file: slides
+                name: pools
+
+          - <<: *assignments
+              - file: quizzes
+                name: synchronization
+
+          - <<: *deadlines
+            items:
+              - text: 'Project Cutoff'
+                icon: 'project'
+                date: 2022-11-01
+                type: ['has-text-danger', 'has-text-weight-bold']
+
+              - file: 'quizzes'
+                name: 'asserts'
+
+              - file: 'quizzes'
+                name: 'logging'
+
+              - file: 'quizzes'
+                name: 'threads'
+
+
+      - date: 2022-11-04
+        sections:
+          - <<: *lectures
             items:
               - text: Work Queues (Part 1)
                 icon: code
@@ -1505,6 +1576,8 @@ weeks:
                 type: ['push', 'del']
                 link: https://github.com/usf-cs272-fall2022/lectures/blob/main/WorkQueues/src/main/java/edu/usfca/cs272/ListingBenchmark.java
 
+              - text: 'Sockets'
+
           - <<: *content
             items:
               - text: ConcurrentWorkQueue.java
@@ -1517,99 +1590,9 @@ weeks:
                 link: https://github.com/usf-cs272-fall2022/lectures/blob/main/WorkQueues/src/main/java/edu/usfca/cs272/ExecutorDirectoryListing.java
                 tube: https://drive.google.com/file/d/1UKW_iCN2AgCOWx7GSbKRRfH71ueXtU9L/view?usp=sharing
 
-          - <<: *assignments
             items:
               - file: quizzes
                 name: workers
-
-          - <<: *deadlines
-            items:
-              - text: 'Project Cutoff'
-                icon: 'project'
-                date: 2022-11-01
-                type: ['has-text-danger', 'has-text-weight-bold']
-
-              - file: projects
-                name: project2_review1
-
-              - file: 'quizzes'
-                name: 'asserts'
-
-              - file: 'quizzes'
-                name: 'logging'
-
-              - file: 'quizzes'
-                name: 'threads'
-
-
-      - date: 2022-11-04
-        sections:
-          - <<: *lectures
-            items:
-              - text: Work Queues (Part 2)
-                icon: code
-                type: bump
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/WorkQueues'
-                tube: https://drive.google.com/file/d/1UKW_iCN2AgCOWx7GSbKRRfH71ueXtU9L/view?usp=sharing
-
-              - text: WorkQueue.java
-                icon: indented
-                type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/WorkQueues/src/main/java/edu/usfca/cs272/WorkQueue.java
-                tube: https://drive.google.com/file/d/1IQIU3GxPRiF8YY4VS_lv_M0yfcLAMmnQ/view?usp=sharing
-             
-              - text: QueuedDirectoryListing.java
-                icon: indented
-                type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/WorkQueues/src/main/java/edu/usfca/cs272/QueuedDirectoryListing.java
-
-              - text: ListingBenchmark.java
-                icon: indented
-                type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/WorkQueues/src/main/java/edu/usfca/cs272/ListingBenchmark.java
-
-              - text: Sockets
-                icon: code
-                type: bump
-                link: https://github.com/usf-cs272-fall2022/lectures/tree/main/Sockets
-                tube: https://drive.google.com/file/d/1V02GkA2pUAmoUtFgdXl12VGVMJkw2pMy/view?usp=sharing
-
-              - text: SimpleServer.java
-                icon: indented
-                type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/SimpleServer.java
-
-              - text: SimpleClient.java
-                icon: indented
-                type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/SimpleClient.java
-              
-              - file: slides
-                name: http
-                type: bump
-
-              - text: UrlFetcher.java
-                icon: code
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/UrlFetcher.java
-                type: bump
-              
-              - text: HttpFetcher.java
-                icon: code
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/HttpsFetcher.java
-
-          - <<: *content
-            items:
-              - file: slides
-                name: web
-                type: bump
-
-              - file: slides
-                name: url
-
-          - <<: *assignments
-            items:
-              - file: quizzes
-                name: http
 
       - date: 2022-11-04
         sections:
