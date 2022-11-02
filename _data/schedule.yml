@@ -1462,6 +1462,7 @@ weeks:
       - date: 2022-11-02
         sections:
           - <<: *lectures
+            items:
               - file: slides
                 name: coordination
                 text: 'Coordination Recap'
@@ -1510,6 +1511,7 @@ weeks:
                 name: pools
 
           - <<: *assignments
+            items:
               - file: quizzes
                 name: synchronization
 
