@@ -1474,12 +1474,12 @@ weeks:
               - text: BoundedBuffer.java
                 icon: indented
                 type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/BoundedBuffer.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/BoundedBuffer.java'
 
               - text: MirrorDriver.java
                 icon: indented
                 type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/MirrorDriver.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Multithreading/src/main/java/edu/usfca/cs272/MirrorDriver.java'
 
               - file: slides
                 name: locks
@@ -1488,18 +1488,18 @@ weeks:
               - text: Synchronization
                 icon: code
                 type: bump
-                link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/Synchronization'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/Synchronization'
 
               - text: ConcurrentSet.java
                 icon: indented
                 type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/ConcurrentSet.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/ConcurrentSet.java'
                 tube: 'https://drive.google.com/file/d/16DmQjV8tkQjnFrAR9-Ivpu_tOgrJbSTs/view?usp=sharing'
 
               - text: SetDemo.java
                 icon: indented
                 type: push
-                link: 'https://github.com/usf-cs272-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/SetDemo.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/SetDemo.java'
                 tube: 'https://drive.google.com/file/d/1rsm1VLf2-asJ_iqLVKU2-cR0F7fJ3u_L/view?usp=sharing'
 
               - file: slides
