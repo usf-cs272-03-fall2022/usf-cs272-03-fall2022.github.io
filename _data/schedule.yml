@@ -1545,6 +1545,7 @@ weeks:
                 icon: code
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/WorkQueues'
                 tube: https://drive.google.com/file/d/1UKW_iCN2AgCOWx7GSbKRRfH71ueXtU9L/view?usp=sharing
+                type: bump
 
               - text: SerialDirectoryListing.java
                 icon: indented
