@@ -1503,9 +1503,10 @@ weeks:
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Synchronization/src/main/java/edu/usfca/cs272/SetDemo.java'
                 tube: 'https://drive.google.com/file/d/1rsm1VLf2-asJ_iqLVKU2-cR0F7fJ3u_L/view?usp=sharing'
 
+          - <<: *content
+            items:
               - file: slides
                 name: volatile
-                type: bump
 
               - file: slides
                 name: pools
@@ -1536,6 +1537,10 @@ weeks:
         sections:
           - <<: *lectures
             items:
+              - file: slides
+                name: pools
+                text: "Thread Pools and Work Queues Recap"
+
               - text: Work Queues (Part 1)
                 icon: code
                 link: 'https://github.com/usf-cs272-fall2022/lectures/tree/main/WorkQueues'
@@ -1579,6 +1584,7 @@ weeks:
                 link: https://github.com/usf-cs272-fall2022/lectures/blob/main/WorkQueues/src/main/java/edu/usfca/cs272/ListingBenchmark.java
 
               - text: 'Sockets'
+                type: bump
 
           - <<: *content
             items:
@@ -1592,6 +1598,7 @@ weeks:
                 link: https://github.com/usf-cs272-fall2022/lectures/blob/main/WorkQueues/src/main/java/edu/usfca/cs272/ExecutorDirectoryListing.java
                 tube: https://drive.google.com/file/d/1UKW_iCN2AgCOWx7GSbKRRfH71ueXtU9L/view?usp=sharing
 
+          - <<: *assignments
             items:
               - file: quizzes
                 name: workers
@@ -1626,10 +1633,6 @@ weeks:
                 name: project3
                 icon: indented
                 type: ['push']
-
-              - text: 'Code Reviews'
-                icon: 'review'
-                type: ['bump']
 
           - <<: *assignments
             items:
