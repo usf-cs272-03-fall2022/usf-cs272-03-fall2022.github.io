@@ -255,7 +255,7 @@ http:
   <<: *default
   tags: ['web']
   text: 'Hypertext Transfer Protocol (HTTP)'
-  link: 'https://docs.google.com/presentation/d/e/2PACX-1vSEzRZio0k4FRdSRlxeauT0i_D54JWhi6ZcEEaYFBJcXFu7o7SL81zhwsot_jxAWCeCOolg8sQsr13K/pub?start=false&loop=false&delayms=3000'
+  link: 'https://docs.google.com/presentation/d/e/2PACX-1vRc3Vh0Hfc7Uf0K_tqJtI4bb_rRHYZldj2JYXgSthU3iUoey5YWLBlYtL1iBrWmm6Kb3xUk7p-Q33F0/pub?start=false&loop=false&delayms=3000'
   tube: 'https://drive.google.com/file/d/1L-JTuRZKalismoydzJUaSe2szdobX-L1/view?usp=sharing'
 
 dynamic:
