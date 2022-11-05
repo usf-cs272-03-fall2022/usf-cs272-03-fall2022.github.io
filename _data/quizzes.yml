@@ -203,7 +203,7 @@ http:
   <<: *default
   text: 'HTTP Basics'
   date: 2022-11-11
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409386'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411891'
   tags: ['web']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415034'
 
