@@ -1584,7 +1584,8 @@ weeks:
                 type: push
                 link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/WorkQueues/src/main/java/edu/usfca/cs272/ListingBenchmark.java
 
-              - text: 'Sockets'
+              - file: slides
+                name: http
                 type: bump
 
           - <<: *content
@@ -1663,9 +1664,30 @@ weeks:
         sections:
           - <<: *lectures
             items:
+              - text: Sockets
+                icon: code
+                type: bump
+                link: https://github.com/usf-cs272-03-fall2022/lectures/tree/main/Sockets
+                tube: https://drive.google.com/file/d/1V02GkA2pUAmoUtFgdXl12VGVMJkw2pMy/view?usp=sharing
+
+              - text: SimpleServer.java
+                icon: indented
+                type: push
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/SimpleServer.java
+
+              - text: SimpleClient.java
+                icon: indented
+                type: push
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/SimpleClient.java
+
+              - text: UrlFetcher.java
+                icon: code
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/UrlFetcher.java
+                type: bump
+
               - text: HttpFetcher.java
                 icon: code
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/HttpsFetcher.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sockets/src/main/java/edu/usfca/cs272/HttpsFetcher.java
 
               - file: slides
                 name: dynamic
@@ -1676,40 +1698,40 @@ weeks:
               
               - text: 'Servlet Basics'
                 icon: code
-                link: https://github.com/usf-cs272-fall2022/lectures/tree/main/ServletBasics
+                link: https://github.com/usf-cs272-03-fall2022/lectures/tree/main/ServletBasics
                 type: bump
 
               - text: TodayServer.java
                 icon: indented
                 type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/TodayServer.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/TodayServer.java
 
               - text: HelloServer.java
                 icon: indented
                 type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/HelloServer.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/HelloServer.java
 
               - text: VisitServer.java
                 icon: indented
                 type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/VisitServer.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/VisitServer.java
 
               - text: SimpleFileServer.java
                 icon: indented
                 type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/SimpleFileServer.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/SimpleFileServer.java
                 tube: https://drive.google.com/file/d/17AUSBRl0c_n7eJ56cSHIbd1al7P9YylG/view?usp=sharing
 
               - text: GalleryServer.java
                 icon: indented
-                type: ['push', 'del']
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/GalleryServer.java
+                type: push
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/GalleryServer.java
                 tube: https://drive.google.com/file/d/1y7DlVnj3s1tcyS0kvKt5C7nxk-9ROkBz/view?usp=sharing
 
               - text: ContextServer.java
                 icon: indented
-                type: ['push', 'del']
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/ContextServer.java
+                type: push
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/ContextServer.java
                 tube: https://drive.google.com/file/d/1TXY__9WzN_GbvSYH1LmHTJLu-Uu06voT/view?usp=sharing
 
           - <<: *assignments
@@ -1720,10 +1742,10 @@ weeks:
               - file: participation
                 name: whatif
 
-          - <<: *deadlines
-            items:
-              - file: projects
-                name: project2_review2
+#         - <<: *deadlines
+#           items:
+#             - file: projects
+#               name: project2_review2
 
       - date: 2022-11-11
         sections:
