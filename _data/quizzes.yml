@@ -211,7 +211,7 @@ dynamic:
   <<: *default
   text: 'Dynamic Web'
   date: 2022-11-18
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409370'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411899'
   tags: ['servlets']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415042'
 
@@ -219,7 +219,7 @@ servlets:
   <<: *default
   text: 'Servlet Contexts'
   date: 2022-11-18
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409340'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411907'
   tags: ['servlets']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415041'
 
