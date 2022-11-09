@@ -1936,9 +1936,6 @@ weeks:
           - <<: *deadlines
             items:
               - file: projects
-                name: project2_design
-
-              - file: projects
                 name: project3_tests
 
       - date: 2022-11-18
