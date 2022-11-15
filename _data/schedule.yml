@@ -1774,7 +1774,7 @@ weeks:
               - text: ReverseServer.java
                 icon: indented
                 type: push
-                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletBasics/src/main/java/edu/usfca/cs272/ReverseServer.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletData/src/main/java/edu/usfca/cs272/ReverseServer.java
                 tube: https://drive.google.com/file/d/17AUSBRl0c_n7eJ56cSHIbd1al7P9YylG/view?usp=sharing
 
               - text: MessageServer.java
