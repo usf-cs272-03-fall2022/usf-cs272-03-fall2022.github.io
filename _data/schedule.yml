@@ -1871,15 +1871,15 @@ weeks:
 
               - text: '– CookieServer.java'
                 icon: 'nothing'
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/CookieServer.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/edu/usfca/cs272/CookieServer.java'
 
               - text: '– CookieLandingServlet.java'
                 icon: 'nothing'
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/CookieLandingServlet.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/edu/usfca/cs272/CookieLandingServlet.java'
 
               - text: '– CookieVisitServlet.java'
                 icon: 'nothing'
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/CookieVisitServlet.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/edu/usfca/cs272/CookieVisitServlet.java'
 
               - text: 'Sessions Adventure'
                 icon: 'code'
@@ -1888,17 +1888,17 @@ weeks:
 
               - text: '– AdventureServer.java'
                 icon: 'nothing'
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/AdventureServer.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/edu/usfca/cs272/AdventureServer.java'
                 tube: 'https://drive.google.com/file/d/1ousizKV83c3vlSEObTdwuiyPcga2AhH4/view?usp=sharing'
 
               - text: '– AdventureRoom.java'
                 icon: 'nothing'
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/AdventureRoom.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/edu/usfca/cs272/AdventureRoom.java'
                 tube: 'https://drive.google.com/file/d/1ousizKV83c3vlSEObTdwuiyPcga2AhH4/view?usp=sharing'
 
               - text: '– AdventureServlet.java'
                 icon: 'nothing'
-                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/AdventureServlet.java'
+                link: 'https://github.com/usf-cs272-03-fall2022/lectures/blob/main/Sessions/src/main/java/edu/usfca/cs272/AdventureServlet.java'
                 tube: 'https://drive.google.com/file/d/1VUXAIoeiG6Qkya1OkkbyutjKktyRkKEo/view?usp=sharing'
 
           - label: 'Previous Lecture Videos'
