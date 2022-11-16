@@ -1779,19 +1779,19 @@ weeks:
 
               - text: MessageServer.java
                 icon: indented
-                type: push
+                type: ['push', 'del']
                 link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletData/src/main/java/edu/usfca/cs272/MessageServer.java
                 tube: https://drive.google.com/file/d/1AhKibA6CMpro8BI7IsmTnRPCmj_kkube/view?usp=share_link
 
               - text: MessageServlet.java
                 icon: indented
-                type: push
+                type: ['push', 'del']
                 link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletData/src/main/java/edu/usfca/cs272/MessageServlet.java
                 tube: https://drive.google.com/file/d/19NR1YdmY1MWH8OH3A0zRypiCSPnBSfCg/view?usp=sharing
 
               - text: BulmaMessageServlet.java
                 icon: indented
-                type: push
+                type: ['push', 'del']
                 link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletData/src/main/java/edu/usfca/cs272/BulmaMessageServlet.java
                 tube: https://drive.google.com/file/d/1Tg5XcUStSyEAuzaEQ1Da6C66ExpxA2Lc/view?usp=sharing
 
@@ -1865,8 +1865,31 @@ weeks:
         sections:
           - <<: *lectures
             items:
+              - text: 'Servlet Data'
+                icon: code
+                link: https://github.com/usf-cs272-03-fall2022/lectures/tree/main/ServletData
+
+              - text: MessageServer.java
+                icon: indented
+                type: push
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletData/src/main/java/edu/usfca/cs272/MessageServer.java
+                tube: https://drive.google.com/file/d/1AhKibA6CMpro8BI7IsmTnRPCmj_kkube/view?usp=share_link
+
+              - text: MessageServlet.java
+                icon: indented
+                type: push
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletData/src/main/java/edu/usfca/cs272/MessageServlet.java
+                tube: https://drive.google.com/file/d/19NR1YdmY1MWH8OH3A0zRypiCSPnBSfCg/view?usp=sharing
+
+              - text: BulmaMessageServlet.java
+                icon: indented
+                type: push
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/ServletData/src/main/java/edu/usfca/cs272/BulmaMessageServlet.java
+                tube: https://drive.google.com/file/d/1Tg5XcUStSyEAuzaEQ1Da6C66ExpxA2Lc/view?usp=sharing
+
               - text: 'HTTP Cookies'
                 icon: 'code'
+                type: bump
                 link: 'https://github.com/usf-cs272-03-fall2022/lectures/tree/main/Sessions'
 
               - text: '– CookieServer.java'
