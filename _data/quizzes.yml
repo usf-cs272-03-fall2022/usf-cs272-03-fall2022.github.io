@@ -227,14 +227,14 @@ project4:
   <<: *default
   text: 'Project 4 Writeup'
   date: 2022-12-02
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409355'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411870'
 #   tags: ['none']
 
 joins:
   <<: *default
   text: 'SQL Joins'
   date: 2022-12-02
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409387'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411853'
   tags: ['sql']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415040'
 
@@ -242,6 +242,6 @@ groups:
   <<: *default
   text: 'SQL Groups'
   date: 2022-12-02
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409377'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411873'
   tags: ['sql']
   test: 'https://usfca.instructure.com/courses/1608197/quizzes/2415038'
