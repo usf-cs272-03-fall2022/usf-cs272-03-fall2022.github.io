@@ -54,6 +54,6 @@ See the [CS Support](https://myusf.usfca.edu/arts-sciences/computer-science/tech
 
 ## Getting Help
 
-Your CS account is created and managed by our [CS Support](https://www.cs.usfca.edu/support.html) team. If you run into any issues with your account, please contact them via email at <support@cs.usfca.edu>.
+Your CS account is created and managed by our [CS Support](https://myusf.usfca.edu/arts-sciences/computer-science/technical-resources) team. If you run into any issues with your account, please contact them via email at <support@cs.usfca.edu>.
 
 The instructor **cannot** reset your password for you, but we do have a test account you can use temporarily if you are having trouble.
