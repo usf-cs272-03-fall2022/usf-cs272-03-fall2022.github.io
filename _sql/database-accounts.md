@@ -26,7 +26,7 @@ And several useful references, including:
 
 Everyone has been assigned a database account on our lab MySQL/MariaDB database server.
 
-The database accounts are in the form `user###` where `###` is a number between `010` and `050`. The database for that account is the same as the username.
+The database accounts are in the form `user###` where `###` is a number between `051` and `060`. The database for that account is the same as the username.
 
 See which database account you have been assigned on the [Database Accounts]({{ site.data.info.links.canvas.link }}/pages/database-accounts) Canvas page. Your initial password will be your USF username. **Make sure to change your password after logging in for the first time.**
 
