@@ -70,9 +70,9 @@ No, you cannot. Project 4 will only be reviewed during your [final code review](
 ## Final Code Reviews
 {: .page-header }
 
-The final code review is your last code review opportunity of the semester. Final code reviews are conducted during finals week from **Tuesday Dec 13th to Thursday Dec 15th** between 11:15am and 5:30pm Pacific Time. Each final code review appointment is **30 minutes** each.
+The final code review is your last code review opportunity of the semester. Final code reviews are conducted during finals week from **Monday Dec 12th to Thursday Dec 15th**. Each final code review appointment is **30 minutes** each.
 
-All students should sign up for a final code review appointment. These appointments do not need to be pre-approved; students should sign up right away regardless of their project progress. Students must sign up for an appointment using the **[Canvas scheduler](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)**. Look for "Final Code Review" on the calendar. Appointments will be released gradually in batches.
+All students should sign up for a final code review appointment. These appointments do not need to be pre-approved; students should sign up right away regardless of their project progress. Students must sign up for an appointment using Calendly with the instructor assigned to them on the [Final Code Review page](https://usfca.instructure.com/courses/1610487/pages/final-code-review).
 
 If you are eligible for a code review, your appointment will start with that code review. If the code review is for a design grade, you will earn partial or full credit for that design grade.
 
@@ -88,7 +88,7 @@ If you are currently enrolled in the course, you should sign up for an appointme
 
 ##### How do I sign up for a final code review appointment?
 
-Sign up for an appointment using the **[Canvas scheduler](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)**. Look for "Final Code Review" on the calendar. Appointments will be released gradually in batches.
+Sign up for an appointment using Calendly with the instructor assigned to you on the [Final Code Review page](https://usfca.instructure.com/courses/1610487/pages/final-code-review).
 
 ##### Do I have to be pre-approved for a code review and have an open pull request on GitHub before signing up for an appointment?
 
@@ -110,7 +110,7 @@ No, the final code review is *optional*. If you are happy with your grade, you d
 
 ##### How do I cancel my final code review appointment?
 
-You can cancel the appointment using the **[Canvas scheduler](https://community.canvaslms.com/t5/Student-Guide/How-do-I-sign-up-for-a-Scheduler-appointment-in-the-Calendar/ta-p/536)** with the "Un-reserve" option. 
+You can cancel the appointment via Calendly.
 
 ##### What happens if I do not attend a final code review appointment?
 
