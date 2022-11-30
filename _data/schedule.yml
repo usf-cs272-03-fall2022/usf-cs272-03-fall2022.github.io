@@ -2233,7 +2233,6 @@ weeks:
             items:
               - file: projects
                 name: project3_design
-                show: true
 
               - file: projects
                 name: project4_tests
@@ -2248,6 +2247,7 @@ weeks:
                 icon: 'date'
                 date: 2022-12-07
                 type: [*pending, 'bump']
+                show: true
 
       - date: 2022-12-09
         sections:
@@ -2259,12 +2259,6 @@ weeks:
 
           - <<: *deadlines
             items:
-              - text: 'Code Review Cutoff'
-                date: 2022-12-09
-                icon: project
-                type: ['has-text-usf-plum']
-                link: /guides/projects/final-review.html
-                show: true
 
 
       - date: 2022-12-09
@@ -2276,6 +2270,13 @@ weeks:
 
               - file: 'participation'
                 name: 'final_survey'
+
+              - text: 'Code Review Cutoff'
+                date: 2022-12-09
+                icon: project
+                type: ['has-text-usf-plum']
+                link: /guides/projects/final-review.html
+                show: true
 
           - label: 'Upcoming Deadlines'
             dates: true
