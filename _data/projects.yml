@@ -105,7 +105,7 @@ project3_review2:
   <<: *default
   text: 'Project 2+3 Review 2'
   link: '/guides/projects/project-3.html'
-  date: 2022-12-06
+  date: 2022-11-30
   icon: 'review'
   points: 20
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223914'
@@ -114,7 +114,7 @@ project3_design:
   <<: *default
   text: 'Project 2+3 Design'
   link: '/guides/projects/project-3.html'
-  date: 2022-12-09
+  date: 2022-12-07
   points: 50
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223912'
 
@@ -132,7 +132,7 @@ project4_tests:
   <<: *default
   text: 'Project 4 Tests'
   link: '/guides/projects/project-4a.html'
-  date: 2022-12-06
+  date: 2022-12-07
   points: 100
   canvas: 'https://usfca.instructure.com/courses/1608197/assignments/7223917'
 

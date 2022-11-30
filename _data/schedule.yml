@@ -2235,15 +2235,14 @@ weeks:
                 name: project3_design
                 show: true
 
-              - text: 'Code Review Cutoff'
-                date: 2022-12-09
-                icon: project
-                type: ['has-text-usf-plum']
-                link: /guides/projects/final-review.html
-                show: true
-
               - file: projects
                 name: project4_tests
+
+              - text: 'Exam 2 Retake'
+                icon: 'exam'
+                date: 2022-12-08
+                link: '#'
+                type: ['has-text-danger']
 
               - text: 'Classes End'
                 icon: 'date'
@@ -2260,11 +2259,13 @@ weeks:
 
           - <<: *deadlines
             items:
-              - text: 'Exam 2 Retake'
-                icon: 'exam'
-                date: 2022-12-08
-                link: '#'
-                type: ['has-text-danger']
+              - text: 'Code Review Cutoff'
+                date: 2022-12-09
+                icon: project
+                type: ['has-text-usf-plum']
+                link: /guides/projects/final-review.html
+                show: true
+
 
       - date: 2022-12-09
         sections:
@@ -2289,7 +2290,7 @@ weeks:
     days:
       - date: ''
         sections:
-          - label: 'Fri 12/9 to Thu 12/15'
+          - label: 'Mon 12/12 to Thu 12/15'
             dates: false
             items:
               - text: 'Final Code Reviews'
@@ -2298,7 +2299,7 @@ weeks:
 
       - date: ''
         sections:
-          - label: 'Fri 12/9 to Thu 12/15'
+          - label: 'Mon 12/12 to Thu 12/15'
             dates: false
             items:
               - text: 'Final Code Reviews'
