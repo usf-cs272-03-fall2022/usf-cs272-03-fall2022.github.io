@@ -2259,6 +2259,12 @@ weeks:
 
           - <<: *deadlines
             items:
+              - text: 'Code Review Cutoff'
+                date: 2022-12-09
+                icon: project
+                type: ['has-text-usf-plum']
+                link: /guides/projects/final-review.html
+                show: false
 
 
       - date: 2022-12-09
