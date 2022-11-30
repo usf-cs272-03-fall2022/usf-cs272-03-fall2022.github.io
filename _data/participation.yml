@@ -103,6 +103,6 @@ whatif:
 final_survey:
   <<: *default
   text: 'Final Survey'
-  link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409385'
+  link: 'https://usfca.instructure.com/courses/1610487/quizzes/2411884'
   date: 2022-12-09
   show: true

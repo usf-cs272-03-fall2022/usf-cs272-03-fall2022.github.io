@@ -2072,6 +2072,9 @@ weeks:
 
           - <<: *assignments
             items:
+              - file: projects
+                name: project3_review1
+
               - file: quizzes
                 name: joins
               
@@ -2107,13 +2110,13 @@ weeks:
             items:
               - text: 'Exam 2'
                 icon: 'exam'
-                link: 'https://usfca.instructure.com/courses/1608197/quizzes/2409334'
+                link: '#'
                 type: ['has-text-danger']
 
           - <<: *deadlines
             items:
               - file: projects
-                name: project3_review1
+                name: project3_review2
 
       - date: 2022-12-02
         sections:
@@ -2125,28 +2128,28 @@ weeks:
               - text: JDBC
                 type: bump
                 icon: code
-                link: https://github.com/usf-cs272-fall2022/lectures/tree/main/JDBC
+                link: https://github.com/usf-cs272-03-fall2022/lectures/tree/main/JDBC
 
               - text: DatabaseConnector.java
                 icon: indented
                 type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/JDBC/src/main/java/edu/usfca/cs272/DatabaseConnector.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/JDBC/src/main/java/edu/usfca/cs272/DatabaseConnector.java
 
               - text: FacultyServer.java
                 icon: indented
                 type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/JDBC/src/main/java/edu/usfca/cs272/FacultyServer.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/JDBC/src/main/java/edu/usfca/cs272/FacultyServer.java
 
               - text: FacultyServlet.java
                 icon: indented
                 type: push
-                link: https://github.com/usf-cs272-fall2022/lectures/blob/main/JDBC/src/main/java/edu/usfca/cs272/FacultyServlet.java
+                link: https://github.com/usf-cs272-03-fall2022/lectures/blob/main/JDBC/src/main/java/edu/usfca/cs272/FacultyServlet.java
 
           - <<: *assignments
             items:
               - text: 'Exam 2 Retake'
                 icon: 'exam'
-                link: 'https://usfca.instructure.com/courses/1608197/quizzes/2415208'
+                link: '#'
                 date: 2022-12-08
                 type: ['has-text-danger']
 
@@ -2229,11 +2232,19 @@ weeks:
           - <<: *deadlines
             items:
               - file: projects
-                name: project3_review2
+                name: project3_design
+                show: true
+
+              - text: 'Code Review Cutoff'
+                date: 2022-12-09
+                icon: project
+                type: ['has-text-usf-plum']
+                link: /guides/projects/final-review.html
+                show: true
 
               - file: projects
                 name: project4_tests
-                
+
               - text: 'Classes End'
                 icon: 'date'
                 date: 2022-12-07
@@ -2252,7 +2263,7 @@ weeks:
               - text: 'Exam 2 Retake'
                 icon: 'exam'
                 date: 2022-12-08
-                link: 'https://usfca.instructure.com/courses/1608197/quizzes/2415208'
+                link: '#'
                 type: ['has-text-danger']
 
       - date: 2022-12-09
@@ -2264,17 +2275,6 @@ weeks:
 
               - file: 'participation'
                 name: 'final_survey'
-
-              - file: projects
-                name: project3_design
-                show: true
-
-              - text: 'Code Review Cutoff'
-                date: 2022-12-09
-                icon: project
-                type: ['has-text-usf-plum']
-                link: /guides/projects/final-review.html
-                show: true
 
           - label: 'Upcoming Deadlines'
             dates: true
@@ -2289,7 +2289,7 @@ weeks:
     days:
       - date: ''
         sections:
-          - label: 'Tue 12/13 to Thu 12/15'
+          - label: 'Fri 12/9 to Thu 12/15'
             dates: false
             items:
               - text: 'Final Code Reviews'
@@ -2298,7 +2298,7 @@ weeks:
 
       - date: ''
         sections:
-          - label: 'Tue 12/13 to Thu 12/15'
+          - label: 'Fri 12/9 to Thu 12/15'
             dates: false
             items:
               - text: 'Final Code Reviews'

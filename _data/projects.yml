@@ -94,7 +94,7 @@ project3_tests:
 
 project3_review1: 
   <<: *default
-  text: 'Project 3 Review 1'
+  text: 'Project 2+3 Review 1'
   link: '/guides/projects/project-3.html'
   date: 2022-11-23
   icon: 'review'
@@ -103,7 +103,7 @@ project3_review1:
 
 project3_review2:
   <<: *default
-  text: 'Project 3 Review 2'
+  text: 'Project 2+3 Review 2'
   link: '/guides/projects/project-3.html'
   date: 2022-12-06
   icon: 'review'
@@ -112,7 +112,7 @@ project3_review2:
 
 project3_design: 
   <<: *default
-  text: 'Project 3 Design'
+  text: 'Project 2+3 Design'
   link: '/guides/projects/project-3.html'
   date: 2022-12-09
   points: 50
